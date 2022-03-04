@@ -15,7 +15,7 @@ public class Alisveris {
 							"3-Bilgisayar-- 3000 TL\n" +
 							"4-Fare-- 10 TL\n" +
 							"5-Yazici-- 400 TL\n" +
-							"6-Sepet Tutarini Hesapla");
+							"6-Sepet Tutarini Hesaplayin");
 			choose = scanner.nextInt();
 
 			switch (choose) {
